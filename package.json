@@ -1,0 +1,22 @@
+{
+  "name": "intuji-qa-associate-challenge",
+  "version": "1.0.0",
+  "description": "Task New",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuladharSrajesh/Intuji-QA-Associate-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuladharSrajesh/Intuji-QA-Associate-Challenge/issues"
+  },
+  "homepage": "https://github.com/TuladharSrajesh/Intuji-QA-Associate-Challenge#readme",
+  "devDependencies": {
+    "cypress": "^15.2.0"
+  }
+}
